@@ -1,8 +1,8 @@
 {
   "name": "mui-listitem-extended",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Extension to Mui's ListItem, adding an Overline as well as option for two action items inside a ListItem.",
-  "keywords": ["material-u", "mui", "listitem", "threeline"],
+  "keywords": ["material-ui", "mui", "listitem", "threeline"],
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --env=jsdom",

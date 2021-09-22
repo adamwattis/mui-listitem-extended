@@ -1,8 +1,8 @@
 # mui-listitem-extended 🪜
 [![Tests](https://github.com/adamwattis/mui-listitem-extended/actions/workflows/main.yml/badge.svg)](https://github.com/adamwattis/mui-listitem-extended/actions/workflows/main.yml)
 
-Helper components to extend the functionality of Mui's ListItem
-* Works with [Mui](https://mui.com/) Material UI
+Helper components to extend the functionality of MUI's ListItem
+* Works with [MUI](https://mui.com/) Material-UI
 * Add Overline text to a ListItem
 * Add two components to ListItemSecondaryAction
 

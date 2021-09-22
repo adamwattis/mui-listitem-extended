@@ -39,6 +39,8 @@ You can then use the components exactly the same as you would the regular ListIt
 ```
 The above snippet will render:
 ![Something](https://imgur.com/C687a60.jpg)
+## Overline styling
+You can use the `overlineTypographyProps` prop to style the overline component.
 
 ## License
 Licensed under the MIT License
